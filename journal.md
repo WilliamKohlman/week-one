@@ -1,7 +1,7 @@
 # Journal
 
 ## Setting Up Github
-Things went smoothly for me, I followed the walkthroughs and have consulted with some friends who use github frequently for some tips and tricks which should come in handy. 
+Things went smoothly for me, I followed the walkthroughs and have consulted with some friends who use github frequently for some tips and tricks which should come in handy. I also know some markdown already from utilizing reddit and having some coding knowledge.
 I had one silly issue when trying to add my HelpRequestActivity file to my repository which I mention later that I was able to resolve.
 
 ## Setting Up Hypothesis
@@ -9,6 +9,9 @@ I was able to install and get set up on Hypothesis easily as the instructions we
 
 ## Setting Up Zotero
 I had already installed Zotero and used it briefly for one essay after being recommended it by a friend last year. It is a really useful tool for keeping track of sources.
+
+## Setting Up Discord
+I was already a regular Discord user so when I heard that this class would be using discord for communication and to replace the classroom in a sense I was happy. So far I have enjoyed the interactions on the server, especially the cat discussions, and have found it useful for seeing how others have approached problems. It is also nice to have conversations with people outside of typical class hours, and it has been really nice to see clarifications from Professor Graham that have been helpful.
 
 ## Assigned Readings
 ### [Returning Women to the History of Digital History](http://www.6floors.org/bracket/2016/03/07/returning-women-to-the-history-of-digital-history/)
